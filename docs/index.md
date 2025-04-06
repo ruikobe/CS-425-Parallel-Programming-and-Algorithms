@@ -1,6 +1,4 @@
-# CS-425 Parallel Programming and Algorithms
-
-Welcome to the course materials page for **CS-425**.
+Welcome to the course **CS-425**.
 
 You will find the syllabus and weekly lecture slides below. Click any link to download the file.
 
