@@ -14,7 +14,7 @@ You will find the syllabus and weekly lecture slides below. Click any link to do
 
 ## 📊 Lecture Slides
 
-- [Chapter 1 Slides](../chap1_slides.ppt)
+- [Chapter 1 Slides](chap1_slides.ppt)
 - [Chapter 2 Slides](../chap2_slides.ppt)
 - [Chapter 3 Slides](../chap3_slides.ppt)
 - [Chapter 4 Slides](../chap4_slides.ppt)
