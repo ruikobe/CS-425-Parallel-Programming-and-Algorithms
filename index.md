@@ -1,6 +1,8 @@
 # CS-425 Parallel Programming and Algorithms
 
-Welcome to the course materials page. Below are the slides and syllabus.
+Welcome to the course materials page for **CS-425**.
+
+You will find the syllabus and weekly lecture slides below. Click any link to download the file.
 
 ---
 
@@ -12,19 +14,19 @@ Welcome to the course materials page. Below are the slides and syllabus.
 
 ## 📊 Lecture Slides
 
-- [Chapter 1](../chap1_slides.ppt)
-- [Chapter 2](../chap2_slides.ppt)
-- [Chapter 3](../chap3_slides.ppt)
-- [Chapter 4](../chap4_slides.ppt)
-- [Chapter 5](../chap5_slides.ppt)
-- [Chapter 6](../chap6_slides.ppt)
-- [Chapter 7](../chap7_slides.ppt)
-- [Chapter 8](../chap8_slides.ppt)
-- [Chapter 9](../chap9_slides.ppt)
-- [Chapter 10](../chap10_slides.ppt)
-- [Chapter 11](../chap11_slides.ppt)
-- [Chapter 12](../chap12_slides.ppt)
+- [Chapter 1 Slides](../chap1_slides.ppt)
+- [Chapter 2 Slides](../chap2_slides.ppt)
+- [Chapter 3 Slides](../chap3_slides.ppt)
+- [Chapter 4 Slides](../chap4_slides.ppt)
+- [Chapter 5 Slides](../chap5_slides.ppt)
+- [Chapter 6 Slides](../chap6_slides.ppt)
+- [Chapter 7 Slides](../chap7_slides.ppt)
+- [Chapter 8 Slides](../chap8_slides.ppt)
+- [Chapter 9 Slides](../chap9_slides.ppt)
+- [Chapter 10 Slides](../chap10_slides.ppt)
+- [Chapter 11 Slides](../chap11_slides.ppt)
+- [Chapter 12 Slides](../chap12_slides.ppt)
 
 ---
 
-> All materials © Rui Zhu, for educational use only.
+> © Rui Zhu — Kettering University. Materials are for CS-425 enrolled students only.
